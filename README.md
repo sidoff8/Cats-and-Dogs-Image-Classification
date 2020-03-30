@@ -14,3 +14,6 @@
 <h5>Input ->Convolution ->ReLU ->Convolution ->ReLU ->Pooling ->
   ReLU ->Convolution ->ReLU ->Pooling ->Fully Connected</h5>
 <h2> Instructions to run</h2>
+<p>Download the dataset<p>
+<br>
+<p>Simply run cnd.py in any python3 Environment</p>
