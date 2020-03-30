@@ -13,3 +13,4 @@
   <h4>A classic CNN architecture would look something like this:</h4>
 <h5>Input ->Convolution ->ReLU ->Convolution ->ReLU ->Pooling ->
   ReLU ->Convolution ->ReLU ->Pooling ->Fully Connected</h5>
+<h2> Instructions to run</h2>
