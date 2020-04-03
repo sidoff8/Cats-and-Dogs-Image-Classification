@@ -15,4 +15,4 @@
   ReLU ->Convolution ->ReLU ->Pooling ->Fully Connected</h5>
 <h2> Instructions to run</h2>
 <p>Download the dataset</p>
-<p>Simply run cnd.py in any python3 Environment</p>
+<p>Simply run cnd.py in any python3 Environment.</p>
